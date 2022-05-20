@@ -41,8 +41,8 @@ The trained models will be saved at file folder '../protein/saved_model/HCT-116/
 
 #### 4. Specify model hyperparameters	
 
->***--batch_size*** is the size of each batch while training.
->***--kernel_size*** is the kernel number of the CNN layer.  
+>***--batch_size*** is the size of each batch while training.  
+>***--kernel_size*** is the kernel number of the CNN layer.   
 >***--head_num*** is the number of attention heads.  
 >***--hidden_dim*** is the dimention of the hidden state vector.  
 >***--layer_num*** is the number of lstm layers.  
